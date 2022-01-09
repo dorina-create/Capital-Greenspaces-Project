@@ -2,7 +2,7 @@
 ## Capital Greenspaces Project, Recreation Team 6, University of Edinburgh 2021-2022
 
 ## About
-The website is developed by Victoria Song, Attila Lukacs, Yixue Wang and Dorina Mosneanu in partial fulfilment of the TIGIS course (2021-22) at The University of Edinburgh.
+The [website](https://www.geos.ed.ac.uk/dev/ARQI) is developed by Victoria Song, Attila Lukacs, Yixue Wang and Dorina Mosneanu in partial fulfilment of the TIGIS course (2021-22) at The University of Edinburgh.
 
 ## Navigating the Repository
 
